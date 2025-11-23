@@ -1,4 +1,0 @@
-aiogram==3.17.0
-selenium==4.28.0
-chromedriver-autoinstaller==0.7.1
-requests==2.32.3
